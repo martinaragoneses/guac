@@ -1,2 +1,4 @@
 - Slice stuff
 - Mix stuff
+- add salt and pepper 
+
