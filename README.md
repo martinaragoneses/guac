@@ -1,2 +1,4 @@
-# guac
-My awesome guacamole recipe
+# Guacamole 
+> My awesome guacamole recipe
+
+----------------------
